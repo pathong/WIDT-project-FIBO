@@ -1,0 +1,115 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.1f1 (6fdc41dfa55a) revision 7330881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1237; Version 2009; 64bit' Language: 'en' Physical Memory: 8034 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+D:/unity_file/WIDT project FIBO
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+60961
+Successfully changed project path to: D:/unity_file/WIDT project FIBO
+D:/unity_file/WIDT project FIBO
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 65.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.1f1 (6fdc41dfa55a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/unity_file/WIDT project FIBO/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   NVIDIA
+    VRAM:     4019 MB
+    Driver:   27.21.14.6133
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56380
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002897 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 58.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.421 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002165 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 58.03 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.010 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.17 seconds
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3176 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 164.8 MB.
+System memory in use after: 165.0 MB.
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 3649.
+Total: 6.636200 ms (FindLiveObjects: 0.335800 ms CreateObjectMapping: 0.176700 ms MarkObjects: 6.080400 ms  DeleteObjects: 0.042100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Resources/Script
+  artifactKey: Guid(376f6eefeab7ad348ab740ddcd293bbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Script using Guid(376f6eefeab7ad348ab740ddcd293bbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9baaa7b3aaad2e557e2ac2a3bae51d34') in 0.008010 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 274.189257 seconds.
+  path: Assets/Resources/Script/Enemy_test.cs
+  artifactKey: Guid(443abdc40899d044ebced8985e890982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Script/Enemy_test.cs using Guid(443abdc40899d044ebced8985e890982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf8ed3813f85b7dbbed76a16f71f868f') in 0.136796 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.972934 seconds.
+  path: Assets/Resources/Script/explode_bullet.cs
+  artifactKey: Guid(7d2e69c8336fbe14b9176201e4e6e73e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Script/explode_bullet.cs using Guid(7d2e69c8336fbe14b9176201e4e6e73e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '234796ef3d0124ba9734c7a453f777f6') in 0.002567 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.238063 seconds.
+  path: Assets/Resources/Script/GameManeger.cs
+  artifactKey: Guid(897f60c71a687544da3e4b59016bfe01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Script/GameManeger.cs using Guid(897f60c71a687544da3e4b59016bfe01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '154ab201996dccc86351900f68b58cf8') in 0.019165 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.540594 seconds.
+  path: Assets/Resources/Script/Menu_maneger.cs
+  artifactKey: Guid(79c457ed470cf8044974d0eba1aaae19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Script/Menu_maneger.cs using Guid(79c457ed470cf8044974d0eba1aaae19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7156665a6ef44dba6940ff6662fc2c25') in 0.003246 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.509991 seconds.
+  path: Assets/Resources/Script/House.cs
+  artifactKey: Guid(94b71fe56ae436c488f1167f899e45be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Script/House.cs using Guid(94b71fe56ae436c488f1167f899e45be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03e76521b9fb4bb2aa7457e9be5287da') in 0.003102 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1046.138949 seconds.
+  path: Assets/Resources/Script/Bullet_wcb.cs
+  artifactKey: Guid(1298d63f2516c4346a47ac281c604e1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Script/Bullet_wcb.cs using Guid(1298d63f2516c4346a47ac281c604e1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32bc98006d8ec1851a926fd0e65b5b2f') in 0.005184 seconds 
